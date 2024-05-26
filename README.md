@@ -58,6 +58,20 @@ POST /api/full-response
 }
 ```
 
+#### Example Python Code:
+
+```python
+import requests
+
+url = "https://profanity-detector.onrender.com/api"
+
+body = {"text": "Your Text Here"}
+
+response = requests.post(url, json=body)
+
+print(response.json())
+```
+
 #### Example Javascript Code:
 
 ```javascript
