@@ -2,6 +2,8 @@
 
 > Profanity Detector is a sophisticated tool designed to identify and flag Georgian swear words, regardless of whether they are written using Georgian script or transliterated into the Latin alphabet. it also can detect english swear words.
 
+[Site Url](https://profanity-detector.onrender.com)
+
 #### Base Url:
 ```http
 GET https://profanity-detector.onrender.com
